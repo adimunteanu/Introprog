@@ -1,0 +1,43 @@
+=== HEADER ===
+-----------------------------
+Blatt 8, Aufgabe 3 (3 Fragen)
+-----------------------------
+=== ENDE HEADER ===
+
+
+=== HINWEISE ===
+ - Editiere diese Datei AUSSCHLIESSLICH mit einem Editor wie Kate, Gedit, vi(m) oder emacs.
+ - Editiere diese Datei KEINESFALLS mit einer Textverarbeitung wie Word oder LibreOffice.
+ - Gib deine Antworten nur im Antwortfeld (ANTWORT) ein und nimm sonst keine Änderungen vor.
+ - Die Beantwortung der Fragen hat gemäß der Beschreibung auf dem Übungszettel zu erfolgen.
+
+Beispielfrage: Wie lautet die Korrektheitsbedingung des Algorithmus MaxSearch?
+
+ANTWORT: C19 & A25
+
+=== ENDE HINWEISE ===
+
+
+=== FRAGE 1 ===
+Gib die Korrektheitsbedingung für den Algorithmus BubbleSort an.
+
+ANTWORT: C2
+
+=== ENDE FRAGE 1 ===
+
+
+=== FRAGE 2 ===
+Gib eine Schleifeninvariante der äußeren for-Schleife (Zeilen 2-4) an, mit welcher die Korrektheit 
+des Algorithmus BubbleSort bewiesen werden kann.
+
+ANTWORT: L7 & W44
+
+=== ENDE FRAGE 2 ===
+
+=== FRAGE 3 ===
+Gib eine Schleifeninvariante der inneren for-Schleife (Zeilen 3-4) an, mit welcher die Korrektheit
+des Algorithmus BubbleSort bewiesen werden kann.
+
+ANTWORT: I14
+
+=== ENDE FRAGE 3 ===

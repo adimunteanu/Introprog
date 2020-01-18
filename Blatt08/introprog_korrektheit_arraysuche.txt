@@ -1,0 +1,35 @@
+=== HEADER ===
+-----------------------------
+Blatt 8, Aufgabe 2 (2 Fragen)
+-----------------------------
+=== ENDE HEADER ===
+
+
+=== HINWEISE ===
+ - Editiere diese Datei AUSSCHLIESSLICH mit einem Editor wie Kate, Gedit, vi(m) oder emacs.
+ - Editiere diese Datei KEINESFALLS mit einer Textverarbeitung wie Word oder LibreOffice.
+ - Gib deine Antworten nur im Antwortfeld (ANTWORT) ein und nimm sonst keine Änderungen vor.
+ - Die Beantwortung der Fragen hat gemäß der Beschreibung auf dem Übungszettel zu erfolgen.
+
+Beispielfrage: Wie lautet die Korrektheitsbedingung des Algorithmus MaxSearch?
+
+ANTWORT: C19 & A25
+
+=== ENDE HINWEISE ===
+
+
+=== FRAGE 1 ===
+Gib die Korrektheitsbedingung für den Algorithmus ArraySuche an.
+
+ANTWORT: M8
+
+=== ENDE FRAGE 1 ===
+
+
+=== FRAGE 2 ===
+Gib eine Schleifeninvariante der for-Schleife (Zeilen 3-4) an, mit welcher die Korrektheit 
+des Algorithmus ArraySuche bewiesen werden kann.
+
+ANTWORT: O23
+
+=== ENDE FRAGE 2 ===
